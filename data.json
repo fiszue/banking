@@ -1,0 +1,77 @@
+[
+  {
+    "clientId": 1,
+    "firstname": "Jan",
+    "surename": "Kowalski",
+    "address": {
+      "street": "Główna",
+      "houseNumber": "5",
+      "city": "Warszawa",
+      "postalCode": "00-123",
+      "country": "Poland"
+    },
+    "phone": "123123123",
+    "accountNumber": "1231231231278361873261",
+    "amount": 123.0
+  },
+  {
+    "clientId": 2,
+    "firstname": "Andrzej",
+    "surename": "Nowak",
+    "address": {
+      "street": "Błotna",
+      "houseNumber": "15",
+      "city": "Zachlapana",
+      "postalCode": "12-234",
+      "country": "Russia"
+    },
+    "phone": "888111222",
+    "accountNumber": "9182739812738912",
+    "amount": 321.0
+  }
+  {
+    "clientId": 3,
+    "firstname": "Jakub",
+    "surename": "Ziemnmiak",
+    "address": {
+      "street": "Rolna",
+      "houseNumber": "15",
+      "city": "Oborniki",
+      "postalCode": "32-514",
+      "country": "France"
+    },
+    "phone": "984233124",
+    "accountNumber": "1616161616161616",
+    "amount": 51.0
+  }
+  {
+    "clientId": 4,
+    "firstname": "Adam",
+    "surename": "Mickiewicz",
+    "address": {
+      "street": "Słowackiego",
+      "houseNumber": "1",
+      "city": "Wieszczowo",
+      "postalCode": "92-400",
+      "country": "Poland"
+    },
+    "phone": "111000111",
+    "accountNumber": "1045963258754545",
+    "amount": 5381.0
+  }
+  {
+    "clientId": 5,
+    "firstname": "Andrzej",
+    "surename": "Duiuda",
+    "address": {
+      "street": "Wiejska",
+      "houseNumber": "4/6/8",
+      "city": "Praga",
+      "postalCode": "12-234",
+      "country": "Czech Republic"
+    },
+    "phone": "987698254",
+    "accountNumber": "7854963514834276",
+    "amount": 0.0
+  }
+]
